@@ -1,0 +1,17 @@
+{
+  "name": "spi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "pi-spi": "^1.2.1",
+    "spi-device": "^3.1.0"
+  }
+}
